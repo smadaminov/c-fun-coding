@@ -1,4 +1,6 @@
 Remove Element
 ==============
 
-https://leetcode.com/problems/remove-element/
+`Link to the problem`_
+
+.. _Link to the problem: https://leetcode.com/problems/remove-element/
